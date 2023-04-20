@@ -1,7 +1,7 @@
 
 #Author: Kenyon Leblanc
 
-ship-shell:
+alg:
 	gcc ./algorithms.c -o run_algorithms
 	$(clean)
 
