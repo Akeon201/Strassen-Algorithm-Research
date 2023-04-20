@@ -3,6 +3,7 @@
 This README will guide you through setting up and using the program to multiply matrices.
 
 Summary
+    
     In this project, we explore the performance of two matrix multiplication algorithms, 
     Strassen's and Brute Force, along with a hybrid approach that combines the strengths of both. 
     Strassen's algorithm is a recursive method with a time complexity of O(n^2.807...), while the 
